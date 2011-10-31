@@ -23,7 +23,7 @@ D12: Open-collector transistor output 1. (Digital output)
 D13: Open-collector transistor output 2. (Digital output)
 
 A0: Temperature sensor (Analog input, MCP9701A)
-A1: Light sensor (Analog input, TPS852)
+A1: Light sensor (Analog input, TEMP6000)
 
 A2: Touchscreen pin 1. (Standard 4-wire Nintendo-style touchscreen.)
 A3: Touchscreen pin 2.
