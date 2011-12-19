@@ -1,4 +1,6 @@
 
+* THIS MAY NEED REVISION TO SUIT THE FINAL v2.0 RELEASE Pebble !
+
 Basic I/O pin usage:
 ====================
 
